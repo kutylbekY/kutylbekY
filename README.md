@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Yerassyl! 👋
+
+
+#Hello! I'm Yerassyl Kutylbek, a passionate programmer, AI enthusiast, and sports competitor, with a knack for excelling in both coding challenges and chess tournaments. Currently pursuing a BSc(Hons) in Artificial Intelligence at the University of Manchester, I thrive on tackling new challenges and exploring the intersection of technology and problem-solving.
 
 <!--
 **kutylbekY/kutylbekY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
